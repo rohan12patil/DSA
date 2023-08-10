@@ -1,2 +1,3 @@
 # DS_Arrays
-This repo contains  solutions for Array based questions
+Data Structures Arrays
+This repo contains solutions for Array based problems
